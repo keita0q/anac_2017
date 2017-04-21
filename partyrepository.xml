@@ -3,6 +3,9 @@
     <items>
         <agentRepItems/>
         <partyRepItems>
+            <partyRepItem classPath="out/production/genius/TemplateAgent/TemplateAgent.class">
+                <properties/>
+            </partyRepItem>
             <partyRepItem classPath="out/production/genius/HogeAgent/HogeAgent.class">
                 <properties/>
             </partyRepItem>
